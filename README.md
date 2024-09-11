@@ -28,4 +28,5 @@ Welcome to the General Science Quiz Game! This is a simple command-line quiz gam
 
 ## Acknowledgements
 Thanks to Python for being a versatile language for creating simple games.
+
 Inspiration from various coding tutorials and Python documentation.
