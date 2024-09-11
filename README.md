@@ -1,5 +1,3 @@
-# Sciencs-Quiz-Game
-A simple command-line General Science Quiz Game implemented in Python. This game asks the user ten questions about general science topics, evaluates their answers, and provides a score at the end. It is designed for educational purposes and to test basic knowledge in science.
 
 # General Science Quiz Game
 
@@ -28,10 +26,6 @@ Welcome to the General Science Quiz Game! This is a simple command-line quiz gam
 2. Answer each question by typing your response and pressing Enter.
 3. After answering all questions, your total score and percentage will be displayed.
 
-## Example
-
-```plaintext
-Enter your name: John
-Hello John, Let's play the game!
-
-What planet is known as the 'Giant Red Spot'? 
+## Acknowledgements
+Thanks to Python for being a versatile language for creating simple games.
+Inspiration from various coding tutorials and Python documentation.
