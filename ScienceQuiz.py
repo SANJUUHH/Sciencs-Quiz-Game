@@ -11,7 +11,7 @@ print()
 score = 0
 
 answer = input("What planet is known as the 'Giant Red Spot'? ")
-if answer.lower() == "jupiter"  :
+if answer.lower() == "jupiter"  :  
     print("Correct! ")
     score += 1
 else:
